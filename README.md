@@ -13,14 +13,63 @@
 
 ## Key Activities in Requirement Analysis
 
-- Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
-- Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
-- Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
-- Observation: Observing end-users in their working environment to understand their needs.
-- Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
+1. Requirement Gathering
+
+- Involves collecting high-level requirements from stakeholders, users, and clients.
+
+- Focuses on understanding what the customer needs and expects from the system.
+
+- Usually done through interviews, surveys, questionnaires, and observation.
+
+- It is the starting point of the requirements engineering process.
+
+2. Requirement Elicitation
+
+- Goes deeper than gathering by exploring and uncovering hidden or unstated requirements.
+
+- Uses techniques like brainstorming, prototyping, workshops, and use case scenarios.
+
+- Encourages collaboration between stakeholders and analysts to clarify expectations.
+
+- Helps reveal conflicts, ambiguities, and assumptions in initial inputs.
+
+3. Requirement Documentation
+
+- Converts gathered and elicited requirements into structured and formalized formats.
+
+- Creates artifacts such as Software Requirements Specifications (SRS), user stories, and use cases.
+
+- Ensures consistency, clarity, and traceability of all requirements.
+
+- Serves as a reference for developers, testers, and stakeholders throughout the project.
+
+4. Requirement Analysis and Modeling
+
+- Involves examining and organizing requirements to identify gaps, redundancies, or conflicts.
+
+- Uses models like data flow diagrams (DFDs), entity-relationship diagrams (ERDs), or UML.
+
+- Categorizes requirements into functional and non-functional types.
+
+- Helps stakeholders visualize system behavior and system structure.
+
+5. Requirement Validation
+
+- Ensures that documented requirements accurately reflect stakeholder needs.
+
+- Typically involves reviews, walkthroughs, inspections, and requirement traceability matrices.
+
+- Aims to detect errors, omissions, and inconsistencies early before development starts.
+
+- Validated requirements reduce rework, save time, and improve project success.
+
 
 ## Types of Requirements
 ### Functional Requirements
 
 
 ### Non-functional Requirements
+
+
+
+[Link text](https://www.google.com/search?q=uc.png&sca_esv=56b3bbd1ec8b7e42&sxsrf=AE3TifOFDtBx9dH2ZXhP0Bv987Tq_S_7HQ%3A1751233307257&ei=G7NhaK-7D_6Uxc8PsoLFgQg&ved=0ahUKEwjvtMq5zJeOAxV-SvEDHTJBMYAQ4dUDCBA&uact=5&oq=uc.png&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnVjLnBuZ0jFFlC8BVjyDHABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp#vhid=aT9XSE3f1OmmQM&vssid=_JbNhaIDLIbiL7NYP_bf2oAE_43)
